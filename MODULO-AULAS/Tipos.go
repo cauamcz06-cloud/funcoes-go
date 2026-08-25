@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func Main() {
 	//tipos:
 	//boll(true,false)
 	fmt.Printf("Type:%T-Valure:%v\n", true, true)
